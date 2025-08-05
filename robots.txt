@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mh-cr.github.io/legal-consult-uae/sitemap.xml
